@@ -1,0 +1,27 @@
+== Get Application
+
+==== Description
+
+A `GET` request is used to get an application.
+
+:resource: {snippets}/getApp
+
+==== HTTP request
+
+include::{resource}/http-request.adoc[]
+
+==== Request body
+
+include::{resource}/request-body.adoc[]
+
+==== Curl request
+
+include::{resource}/curl-request.adoc[]
+
+==== HTTP response
+
+include::{resource}/http-response.adoc[]
+
+==== Response body
+
+include::{resource}/response-body.adoc[]

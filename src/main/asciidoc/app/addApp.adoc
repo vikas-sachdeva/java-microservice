@@ -1,0 +1,27 @@
+== Add Application
+
+==== Description
+
+A `POST` request is used to add an application.
+
+:resource: {snippets}/addApp
+
+==== HTTP request
+
+include::{resource}/http-request.adoc[]
+
+==== Request body
+
+include::{resource}/request-body.adoc[]
+
+==== Curl request
+
+include::{resource}/curl-request.adoc[]
+
+==== HTTP response
+
+include::{resource}/http-response.adoc[]
+
+==== Response body
+
+include::{resource}/response-body.adoc[]

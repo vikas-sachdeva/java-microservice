@@ -1,0 +1,27 @@
+== Delete Application
+
+==== Description
+
+A `DELETE` request is used to delete an application.
+
+:resource: {snippets}/deleteApp
+
+==== HTTP request
+
+include::{resource}/http-request.adoc[]
+
+==== Request body
+
+include::{resource}/request-body.adoc[]
+
+==== Curl request
+
+include::{resource}/curl-request.adoc[]
+
+==== HTTP response
+
+include::{resource}/http-response.adoc[]
+
+==== Response body
+
+include::{resource}/response-body.adoc[]

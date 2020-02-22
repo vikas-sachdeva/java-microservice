@@ -1,0 +1,27 @@
+== Update Application
+
+==== Description
+
+A `PUT` request is used to update an application.
+
+:resource: {snippets}/updateApp
+
+==== HTTP request
+
+include::{resource}/http-request.adoc[]
+
+==== Request body
+
+include::{resource}/request-body.adoc[]
+
+==== Curl request
+
+include::{resource}/curl-request.adoc[]
+
+==== HTTP response
+
+include::{resource}/http-response.adoc[]
+
+==== Response body
+
+include::{resource}/response-body.adoc[]

@@ -1,0 +1,15 @@
+= Java Microservices
+
+This is an example of java microservices.
+
+:resource: app
+
+include::{resource}/addApp.adoc[]
+
+include::{resource}/getApp.adoc[]
+
+include::{resource}/getApps.adoc[]
+
+include::{resource}/updateApp.adoc[]
+
+include::{resource}/deleteApp.adoc[]
